@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </center>
 <br/>
 
-⚡ Fun fact: I'm a full-stack developer and a fast learner, always eager to dive into new technologies and explore innovative solutions to solve complex problems!
+⚡ Fun fact: I'm a software, full-stack developer and a fast learner, always eager to dive into new technologies and explore innovative solutions to solve complex problems!
 
 🔭 As a dedicated **Full Stack Developer**, I am continuously expanding my skill set to stay current with the **latest technologies** and industry trends. Currently, I am embarking on a journey to learn **Flutter**, a versatile framework that supports **multi-platform** development, allowing me to create seamless experiences across various devices. Additionally, I am delving into **NestJS**, a progressive Node.js framework, known for its **scalability** and efficiency in building server-side applications. Moreover, I am diving into **Nuxt.js**, a powerful Vue.js framework that enables rapid development of **universal web applications**, offering server-side rendering and static site generation capabilities. Through these endeavors, I aim to enhance my proficiency and deliver cutting-edge solutions to meet the evolving demands of modern software development.
 
