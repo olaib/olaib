@@ -1,18 +1,3 @@
-<!--
-**olaib/olaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=33&duration=2800&pause=1500&color=e50914&center=true&vCenter=true&width=1000&lines=Hello+%F0%9F%91%8B+I'm+Ola+Ibrahim+👩‍💻;I+am+a+Full+Stack+Developer+💻;Welcome+to+My+GitHub+Profile+🐙)
 
 <h1 align="center">👋 Hi there! I'm Ola, a passionate Full Stack Developer dedicated to building web and multi-platform applications.</h1>
@@ -21,19 +6,51 @@ Here are some ideas to get you started:
 <img src="assets/images/coding1.gif" alt="coding" width="500" height="400"/>
 </center>
 
-## About Me
-
-- 🌐 **Website:** [Portfolio](https://olaib.github.io/my-portfolio-page/)
-- 💼 **LinkedIn:** [Ola Ibrahim](https://www.linkedin.com/in/ola-ibrahim-757504223/)
-- 📫 **Email:** olaib76@gmail.com
-
-<br/>
-
 <center>
 <div style="background: white; color: black; width: 180px;">
   <span style="color: purple;">Hello World💜</span>
 </div>
 </center>
+
+## About Me
+
+Graduated from Hadassah Academic College with a BSc in Computer Science.
+
+- 🌐 **Website:** [Portfolio](https://olaib.github.io/my-portfolio-page/)
+- 💼 **LinkedIn:** [Ola Ibrahim](https://www.linkedin.com/in/ola-ibrahim-757504223/)
+- 📫 **Email:** olaib76@gmail.com
+
+### Let Me Introduce Myself
+
+#### B.Sc. in Computer Science graduate.
+
+Passionate about **Software Development** and Web Development.
+
+I thrive on **learning new technologies** and use my passion for innovation to drive my work as a developer.
+
+**Highly motivated** software developer. A **team player** with excellent **human skills**, eager to find the next challenge to tackle. I have a passion for learning new technologies and I'm always looking for new opportunities. { **💻** }
+
+I have experience in developing web applications using **React**, **Node.js**, **Java** (Spring + OOP), **Flask** and databases like **MongoDB** and **MySQL** and **SQLite**.
+
+I possess a solid understanding of Object Oriented Programming (OOP), Data Structures and concepts like Design Patterns, SOLID, Clean Code. Additionally, I have a strong command of other programming languages like **C++**, **C**, **Python**.
+
+And I have experience in **CI/CD** and **Docker**.
+
+#### MY PROFESSIONAL TRAINING
+
+<p align="center">
+  <img src="assets/images/Badges_Excellenteam.png" alt="coding" width="100" height="100"/>
+</p>
+
+<center>
+<img src="assets/images/certification.jpeg" alt="coding" width="500" height="400"/>
+
+[![Velocity Scale-Up Excellenteam Program](https://img.shields.io/badge/Velocity%20Scale--Up%20Excellenteam%20Program-Certificate-blue?style=for-the-badge)](https://www.credly.com/badges/0bcf6727-4934-47b1-836c-32bb02d186c4/linked_in?t=s139f7)
+
+</center>
+
+An intensive 5-week all-day bootcamp, post degree, gaining industry-level programming proficiency. High emphasis on clean, elegant, and efficient code, with a deep understanding of software development principles. [Click here to View My Credential](https://www.credly.com/badges/0bcf6727-4934-47b1-836c-32bb02d186c4/linked_in?t=s139f7)
+
 <br/>
 
 ⚡ Fun fact: I'm a software, full-stack developer and a fast learner, always eager to dive into new technologies and explore innovative solutions to solve complex problems!
@@ -93,6 +110,14 @@ some of my projects
 ## 📫 Contact Me
 
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to connect.
+
+#### Contact Me **💬**
+
+- **Email:** [olaib76@gmail.com](mailto:olaib76@gmail.com)
+- **Phone:** [+972 50 670 5664](tel:+972 50 670 5664)
+- **WhatsApp:** [+972 50 670 5664](https://api.whatsapp.com/send?phone=972506705664)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ola-ibrahim-757504223/)
+- **Github:** [Github](https://github.com/olaib)
 
 ---
 
