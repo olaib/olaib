@@ -45,6 +45,7 @@ And I have experience in **CI/CD** and **Docker**.
 </div>
 
 <div align="center">
+
   [![Velocity Scale-Up Excellenteam Program](https://img.shields.io/badge/Velocity%20Scale--Up%20Excellenteam%20Program-Certificate-blue?style=for-the-badge)](https://www.credly.com/badges/0bcf6727-4934-47b1-836c-32bb02d186c4/linked_in?t=s139f7)
 </div>
 
