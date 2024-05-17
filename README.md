@@ -2,15 +2,11 @@
 
 <h1 align="center">👋 Hi there! I'm Ola, a passionate Full Stack Developer dedicated to building web and multi-platform applications.</h1>
 
-<center>
-<img src="assets/images/coding1.gif" alt="coding" width="500" height="400"/>
-</center>
+<img align="center" src="assets/images/coding1.gif" alt="coding" width="500" height="400"/>
 
-<center>
-<div style="background: white; color: black; width: 180px;">
+<div  align="center" style="background: white; color: black; width: 180px;">
   <span style="color: purple;">Hello World💜</span>
 </div>
-</center>
 
 ## About Me
 
@@ -42,12 +38,10 @@ And I have experience in **CI/CD** and **Docker**.
   <img src="assets/images/Badges_Excellenteam.png" alt="coding" width="100" height="100"/>
 </p>
 
-<center>
-<img src="assets/images/certification.jpeg" alt="coding" width="500" height="400"/>
+<img align="center" src="assets/images/certification.jpeg" alt="coding" width="500" height="400"/>
 
 [![Velocity Scale-Up Excellenteam Program](https://img.shields.io/badge/Velocity%20Scale--Up%20Excellenteam%20Program-Certificate-blue?style=for-the-badge)](https://www.credly.com/badges/0bcf6727-4934-47b1-836c-32bb02d186c4/linked_in?t=s139f7)
 
-</center>
 
 An intensive 5-week all-day bootcamp, post degree, gaining industry-level programming proficiency. High emphasis on clean, elegant, and efficient code, with a deep understanding of software development principles. [Click here to View My Credential](https://www.credly.com/badges/0bcf6727-4934-47b1-836c-32bb02d186c4/linked_in?t=s139f7)
 
