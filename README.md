@@ -89,7 +89,7 @@ An intensive 5-week all-day bootcamp, post degree, gaining industry-level progra
 
 ## 🚀 Projects
 
-some of my projects
+Here are some of my projects:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olaib&repo=google-sheets-system-management&theme=radical)](https://github.com/olaib/google-sheets-system-management)
 
