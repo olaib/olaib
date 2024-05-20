@@ -40,7 +40,7 @@ And I have experience in **CI/CD** and **Docker**.
 </div>
 
 <div align="center">
-<img src="assets/images/certification.jpeg" alt="coding" width="500" height="400"/>
+<img src="assets/images/certification.png" alt="coding" width="500" height="400"/>
 </div>
 
 <div align="center">
