@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi there! I'm Ola, a passionate Full Stack Developer dedicated to building web and multi-platform applications.</h1>
 
 <div  align="center">
-<img src="assets/images/coding1.gif" alt="coding" width="500" height="400"/>
+<img src="assets/images/coding1.gif" style="border-radius: 50%; width: 200px; height: 200px;" alt="coding" width="500" height="400"/>
 
 <p  align="center" style="background: white; color: black; width: 180px;">
   <span style="color: purple;">Hello World💜</span>
